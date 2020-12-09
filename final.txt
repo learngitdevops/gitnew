@@ -1,6 +1,9 @@
+########
 file1
 Line 1.
 Line 2.
+--------
 file2
 Line 1.
 Line 2.
+########
